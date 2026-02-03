@@ -20,6 +20,7 @@ The dashboard answers key business questions:
 - **Revenue by Gender** (Male vs Female comparison)
 - **Revenue by Age Group** (Bucketed ranges: 18-25, 26-35, 46-60, 60+)
 -  **Monthly Revenue Trend** (Seasonality Analysis)
+
 **File**:
 **Screenshot**
 <img width="1371" height="753" alt="Screenshot 2026-01-31 205615" src="https://github.com/user-attachments/assets/a8665db2-13f5-4eac-8b01-48c525c7b692" />
