@@ -21,7 +21,7 @@ This portfolio showcases my projects in data wrangling, visualization, and busin
 - **Highlights:**
   - Built interactive dashboard to track KPIs (monthly revenue, top products, regional performance).
   - SQL queries for customer segmentation and profitability analysis.
-- **Deliverables:**[ `.pbix` dashboard file](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/Retail-Sales-Dashboard/Retail%20Sales%20Dashboard.pbix) +[ Dashboard Screenshots](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/Retail-Sales-Dashboard/Screenshot%202026-01-31%20205615.png)
+- **Deliverables:**[ `.pbix` dashboard folder](https://github.com/phatudi230/Data-Analysis-Portfolio/tree/main/Retail%20Sales%20Dashboard)
 
 ---
 
