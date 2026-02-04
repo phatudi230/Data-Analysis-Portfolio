@@ -31,8 +31,7 @@ This portfolio showcases my projects in data wrangling, visualization, and busin
 - **Highlights:**
   - Analyzed genre distribution, release year trends, and ratings.
   - Visualized shift from movies to TV shows over time.
-- **Deliverables:** [Jupyter Notebook ](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/netflixNoteBook.ipynb)+[Rating Distribution](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/rating%20distribution.png), [ Movies & TVshows Released Trends](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/movies%26%20tvshows%20realesed%20year.png), [Distribution of Movies & Tv shows](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Movies%26tv%20distribution.png)
-
+- **Deliverables:** [Jupyter Notebook ](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Netflix%20Content%20Analysis/notebook/netflixNoteBook.ipynb)
 ---
 
 ### 3. Airbnb Pricing Trends
