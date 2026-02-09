@@ -34,23 +34,18 @@ This portfolio showcases my projects in data wrangling, visualization, and busin
 - **Deliverables:** [Jupyter Notebook ](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Netflix%20Content%20Analysis/notebook/netflixNoteBook.ipynb)
 ---
 
-### 3. Airbnb Pricing Trends
-- **Tools:** SQL, Python, Power BI
-- **Dataset:** [Airbnb Listings (Kaggle)](https://www.kaggle.com/datasets/jessemostipak/airbnb-listings)
+### 3. Customer churn prediction( in progress)
+- **Tools:** 
+- **Dataset:**
 - **Highlights:**
-  - SQL queries for average price by city/season.
-  - Python analysis for outlier detection.
-  - Power BI dashboard with maps and KPIs.
 - **Deliverables:** Notebook + dashboard screenshots
 
 ---
 
-### 4. Student Performance Analysis
-- **Tools:** Python (Pandas, Matplotlib)
-- **Dataset:** [Student Performance Dataset (UCI)](https://archive.ics.uci.edu/ml/datasets/student+performance)
+### 4. Sales forecasting( in progress)
+- **Tools:**
+- **Dataset:**
 - **Highlights:**
-  - Correlation analysis between study habits, attendance, and grades.
-  - Visualizations to communicate insights clearly.
 - **Deliverables:** Notebook + summary report
 
 ---
