@@ -1,4 +1,4 @@
-# Data Analysis Portfolio – Phatudi Daniel Modiba
+# Informatics Portfolio – Phatudi Daniel Modiba
 
 Welcome to my data analysis portfolio!  
 I am a penultimate-year Informatics student at Tshwane University of Technology with strong skills in Python, SQL, Power BI, and Excel.  
