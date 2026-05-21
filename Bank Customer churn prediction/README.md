@@ -1,51 +1,146 @@
-# Bank Customer Churn Prediction (Machine Learning)
-
-## 📌 Executive Summary
-This project utilizes **Logistic Regression** to predict the probability of customer attrition for a retail bank. By identifying high-risk churn clusters, this analysis provides data-driven strategies to improve customer retention and maximize lifetime value.
+# Customer Churn Prediction
+### Bank Customer Churn Analysis & Retention Strategy
 
 ---
 
-## 📊 Dataset
-* **Source:** Bank Customer Churn Dataset (10,000+ records)
-* **Target Variable:** `Exited` (1 = Churned, 0 = Retained)
-* **Key Features:** Credit Score, Geography, Age, Tenure, Balance, and Member Activity.
+## 📌 Project Overview
+
+This project predicts customer churn for a bank using 
+machine learning classification models. The goal was not 
+only to build an accurate predictive model but to translate 
+the findings into actionable business recommendations that 
+a retention team could immediately implement.
 
 ---
 
-## 🛠️ Tools & Technologies
-* **Language:** Python
-* **Data Science Stack:** Pandas, NumPy, Scikit-learn
-* **Visualization:** Matplotlib, Seaborn
-* **Statistical Analysis:** SciPy (Hypothesis Testing)
+## 🎯 Business Problem
+
+Banks lose significant revenue when customers close accounts 
+or stop using services. Identifying at-risk customers before 
+they churn allows the business to intervene proactively — 
+reducing customer acquisition costs and protecting revenue.
+
+**Key question:** Which customers are most likely to churn 
+and what should the business do about it?
 
 ---
 
-## 🚀 Project Highlights
+## 🔧 Tools & Libraries
 
-### 1. Statistical Hypothesis Testing
-Conducted bivariate analysis to validate key drivers. Using **T-Tests**, I confirmed that variables such as **Age** and **Account Balance** have a statistically significant impact on churn ($p < 0.05$), moving beyond simple observation to statistical proof.
-
-### 2. Robust Data Preprocessing
-* **Encoding:** Transformed categorical variables using One-Hot Encoding while avoiding the Dummy Variable Trap.
-* **Scaling:** Applied `StandardScaler` to normalize numerical features, ensuring the Logistic Regression coefficients were not biased by different units of measurement.
-
-### 3. Business Insights & Drivers
-* **Activity Gap:** Discovered that "Inactive Members" are twice as likely to churn, suggesting a need for automated re-engagement triggers.
-* **Product Density:** Identified that customers with only a single bank product have a significantly higher churn rate compared to multi-product holders.
-
-### 4. Model Performance
-* Evaluated the model using a **Confusion Matrix** and **Classification Report**.
-* Focused on **Recall** to minimize "False Negatives"—ensuring the bank identifies as many at-risk customers as possible.
+- Python (Pandas, NumPy)
+- Scikit-learn (Logistic Regression, Random Forest)
+- Imbalanced-learn (SMOTE)
+- Matplotlib
 
 ---
 
-## 📂 How to Run
-1. Clone the repository: `git clone https://github.com/phatudi230/Bank Customer churn prediction`
-2. Install dependencies: `pip install pandas scikit-learn seaborn`
-3. Open `churn_analysis.ipynb` in Jupyter Notebook or VS Code.
+## 📊 Methodology
+
+### 1. Data Preprocessing
+- Encoded categorical variables (Gender mapped to 0/1)
+- Created Age Buckets (Young, Middle-aged, Senior) 
+using pd.cut and one-hot encoding
+- Created Balance Buckets (Very Low, Low, Medium, High) 
+for better pattern visibility
+
+### 2. Feature Engineering
+Two derived features were created to capture behavioural 
+patterns not visible in raw data:
+- **balance_to_salary_ratio** — measures how much of a 
+customer's earning potential is held in the bank
+- **products_per_tenure** — measures product adoption 
+relative to relationship length
+
+### 3. Handling Class Imbalance
+The dataset had significantly more non-churners than 
+churners. SMOTE (Synthetic Minority Oversampling Technique) 
+was applied to the training set to ensure the model learns 
+from both classes equally.
+
+### 4. Model Training & Comparison
+Two models were trained and compared:
+
+| Model | Accuracy |
+|-------|----------|
+| Logistic Regression (threshold tuned) | 74% |
+| Random Forest | 81% |
+
+**Selected Model: Random Forest** — achieves higher accuracy 
+and captures non-linear feature relationships that Logistic 
+Regression cannot model effectively.
+
+> **Note:** An earlier model using only country as a feature 
+produced a misleadingly high accuracy. This was identified 
+as overfitting to a single biased feature. The full feature 
+set with engineering produces more honest and generalizable 
+results.
+
+### 5. Threshold Tuning
+Logistic Regression was tested at thresholds 0.3, 0.4 and 
+0.5 to find the optimal precision-recall balance for a 
+business context where catching churners matters more than 
+overall accuracy.
+
+### 6. Custom Churn Risk Scoring
+A rule-based churn risk scoring function was developed to 
+produce interpretable risk categories for business 
+stakeholders:
+
+| Risk Level | Score |
+|------------|-------|
+| Low Risk | 0 – 3 |
+| Medium Risk | 4 – 7 |
+| High Risk | 8+ |
 
 ---
 
-**File**:
-**Conclusion & Business Recommendation**
-<img width="1371" height="753" alt="Screenshot 2026-01-31 205615" src="https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Bank%20Customer%20churn%20prediction/Notebook/Conclusion%20&%20Business%20recommendaation.png" />
+## 🔍 Key Churn Drivers
+
+Based on Random Forest feature importance analysis:
+
+1. **Active Membership Status** — Inactive members are 
+significantly more likely to churn
+2. **Balance-to-Salary Ratio** — Low balance relative to 
+salary indicates underutilization of banking products
+3. **Products per Tenure** — Fewer products relative to 
+tenure indicates weak relationship depth
+
+---
+
+## 💡 Business Recommendations
+
+- **Retention Priority** — Flag High Risk customers 
+(score > 7) for immediate relationship manager outreach
+- **Re-engagement Campaign** — Target inactive members 
+with personalized product offers before churn occurs
+- **Product Cross-selling** — Proactively offer products 
+to customers with only 1 product and long tenure
+- **Early Warning System** — Deploy risk scoring function 
+as a monthly automated report
+
+---
+
+## ⚠️ Limitations & Next Steps
+
+- Model performance could be further improved with 
+hyperparameter tuning using GridSearchCV
+- Additional features such as customer service interactions 
+and transaction frequency would likely improve accuracy
+- A/B testing the retention recommendations would validate 
+real-world impact
+
+---
+
+## 📁 Files
+
+| File | Description |
+|------|-------------|
+| `predictiion.ipynb` | Full analysis notebook |
+
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** [Phatudi Daniel Modiba](http://www.linkedin.com/in/phatudi-daniel-modiba)
+- **Portfolio:** [Your portfolio website link]
