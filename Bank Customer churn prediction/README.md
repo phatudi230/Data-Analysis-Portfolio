@@ -46,5 +46,6 @@ Conducted bivariate analysis to validate key drivers. Using **T-Tests**, I confi
 
 ---
 
-## 📈 Visualizations
-*(Note: Upload your Confusion Matrix and Feature Importance plots to your repo and link them here!)*
+**File**:
+**Conclusion & Business Recommendation**
+<img width="1371" height="753" alt="Screenshot 2026-01-31 205615" src="https://github.com/user-attachments/assets/a8665db2-13f5-4eac-8b01-48c525c7b692" />
