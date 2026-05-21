@@ -1,6 +1,6 @@
 # Campus Student Marketplace — Student Online Mall (SOM)
 ### Business Analysis Case Study | TUT Soshanguve Campus
-<img src="[Student_Mall_Showcase.png](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/SOM%20Showcase.png)" width="100%"/>
+<img width="1371" height="753" alt="Screenshot 2026-01-31 205615" src="https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/SOM%20Showcase.png" />
 ---
 
 ## 📌 Project Overview
