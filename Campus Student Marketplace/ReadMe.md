@@ -166,10 +166,9 @@ user testing would validate assumptions
 
 | File | Description |
 |------|-------------|
-| `Case_Study_2.pdf` | Full BA case study document |
-| `Student_Mall_Presentation.pptx` | App showcase presentation |
-| `BPMN_AS_IS.png` | AS-IS process diagram |
-| `Prototype_Screens/` | Figma prototype screenshots |
+| `Data/Case_Study_2.pdf` | Full BA case study document |
+| `Data/Student_Mall_Presentation.pptx` | App showcase presentation |
+| `Data/BPMN_AS_IS.png` | AS-IS process diagram |
 
 ---
 
