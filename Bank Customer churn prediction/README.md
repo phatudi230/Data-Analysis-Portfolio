@@ -135,7 +135,7 @@ real-world impact
 
 | File | Description |
 |------|-------------|
-| `predictiion.ipynb` | Full analysis notebook |
+| [`predictiion.ipynb`](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Bank%20Customer%20churn%20prediction/Notebook/predictiion.ipynb) | Full analysis notebook |
 
 
 ---
