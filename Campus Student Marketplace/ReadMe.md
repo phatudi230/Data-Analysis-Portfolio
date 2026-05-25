@@ -3,7 +3,7 @@
 <img width="1371" height="753" alt="Screenshot 2026-01-31 205615" src="https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/SOM%20Showcase.png" />
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 An independent Business Analysis case study identifying and 
 solving a real operational problem in student-led commerce 
@@ -18,7 +18,7 @@ documentation, process mapping and solution design.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Campus commerce at TUT Soshanguve was plagued by:
 - Constant repetitive WhatsApp posting causing message 
@@ -37,7 +37,7 @@ commitments?
 
 ---
 
-## 🔧 Tools & Methods
+## Tools & Methods
 
 - Stakeholder Interviews (Sellers)
 - Ethnographic Research (Buyer observation)
@@ -49,7 +49,7 @@ commitments?
 
 ---
 
-## 👥 Stakeholder Research
+##  Stakeholder Research
 
 ### Supply Side — Student Sellers
 Conducted interview with a Nail Technician identifying:
@@ -76,7 +76,7 @@ buyer, mapping the complete purchase journey:
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 ### Functional Requirements
 | ID | Requirement |
@@ -98,7 +98,7 @@ buyer, mapping the complete purchase journey:
 
 ---
 
-## 💡 Proposed Solution — Student Online Mall (SOM)
+##  Proposed Solution — Student Online Mall (SOM)
 
 A centralized mobile marketplace combining social media 
 engagement with structured commerce functionality.
@@ -131,7 +131,7 @@ engagement with structured commerce functionality.
 
 ---
 
-## 📐 Prototype
+##  Prototype
 
 5 screens designed in Figma:
 - Home Feed
@@ -142,7 +142,7 @@ engagement with structured commerce functionality.
 
 ---
 
-## 📈 Expected Impact
+##  Expected Impact
 
 - 60% projected reduction in checkout time via QR payment
 - Campus-wide seller visibility beyond one section
@@ -152,7 +152,7 @@ engagement with structured commerce functionality.
 
 ---
 
-## ⚠️ Limitations & Next Steps
+##  Limitations & Next Steps
 
 - Full stakeholder research limited to one seller interview 
 and buyer observation — broader sample would strengthen findings
@@ -172,7 +172,6 @@ user testing would validate assumptions
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **LinkedIn:** [Phatudi Daniel Modiba](http://www.linkedin.com/in/phatudi-daniel-modiba)
-- **Portfolio:** [Your portfolio website link]
