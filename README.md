@@ -53,7 +53,7 @@ improvement
   - Identified key churn drivers including contract type, tenure 
   and monthly charges
 Identified that single-feature models can produce misleadingly high accuracy, validated findings using full feature set with engineered variables
-- **Deliverables:** Notebook + Results screenshots
+- **Deliverables:** [Notebook](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Bank%20Customer%20churn%20prediction/Notebook/predictiion.ipynb) 
 
 ---
 
@@ -83,8 +83,8 @@ BPMN (Draw.io), Requirements Documentation, Figma (UI Prototyping)
   - Produced full BPMN AS-IS process diagram, functional and 
   non-functional requirements documentation and 5-screen 
   Figma prototype
-- **Deliverables:** [Case Study PDF](link) | [Prototype Screens](link) 
-| [Presentation](link)
+- **Deliverables:** [Case Study PDF]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/Data/casestudy2.pdf)) | [Prototype Screens]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/SOM%20Showcase.png)) 
+| [Presentation]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/Data/SOM%20Presentation.pptx))
 
 ---
 
@@ -109,7 +109,7 @@ Proposal Writing, Stakeholder Engagement
   independently, navigating a multi-level institutional structure
   - **Outcome: Storage was successfully reinstated for Sosh5 
   Residence students following formal submission of the proposal**
-- **Deliverables:** [Full Proposal Document](link)
+- **Deliverables:** [Full Proposal Document]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Institutional%20Policy%20Gap%20Analysis/Storage%20Proposal.pdf))
 
 ---
 
