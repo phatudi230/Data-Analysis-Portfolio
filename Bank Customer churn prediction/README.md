@@ -3,29 +3,22 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
-This project predicts customer churn for a bank using 
-machine learning classification models. The goal was not 
-only to build an accurate predictive model but to translate 
-the findings into actionable business recommendations that 
-a retention team could immediately implement.
+This project predicts customer churn for a bank using machine learning classification models. The goal was not only to build an accurate predictive model but to translate the findings into actionable business recommendations that a retention team could immediately implement.
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
-Banks lose significant revenue when customers close accounts 
-or stop using services. Identifying at-risk customers before 
-they churn allows the business to intervene proactively — 
-reducing customer acquisition costs and protecting revenue.
+Banks lose significant revenue when customers close accounts or stop using services. Identifying at-risk customers before they churn allows the business to intervene proactively reducing customer acquisition costs and protecting revenue.
 
-**Key question:** Which customers are most likely to churn 
-and what should the business do about it?
+**Key question:**
+Which customers are most likely to churn and what should the business do about it?
 
 ---
 
-## 🔧 Tools & Libraries
+##  Tools & Libraries
 
 - Python (Pandas, NumPy)
 - Scikit-learn (Logistic Regression, Random Forest)
@@ -34,7 +27,7 @@ and what should the business do about it?
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 - Encoded categorical variables (Gender mapped to 0/1)
@@ -44,12 +37,9 @@ using pd.cut and one-hot encoding
 for better pattern visibility
 
 ### 2. Feature Engineering
-Two derived features were created to capture behavioural 
-patterns not visible in raw data:
-- **balance_to_salary_ratio** — measures how much of a 
-customer's earning potential is held in the bank
-- **products_per_tenure** — measures product adoption 
-relative to relationship length
+Two derived features were created to capture behavioural patterns not visible in raw data:
+- **balance_to_salary_ratio** — measures how much of a customer's earning potential is held in the bank
+- **products_per_tenure** — measures product adoption relative to relationship length
 
 ### 3. Handling Class Imbalance
 The dataset had significantly more non-churners than 
@@ -94,7 +84,7 @@ stakeholders:
 
 ---
 
-## 🔍 Key Churn Drivers
+##  Key Churn Drivers
 
 Based on Random Forest feature importance analysis:
 
@@ -107,7 +97,7 @@ tenure indicates weak relationship depth
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 - **Retention Priority** — Flag High Risk customers 
 (score > 7) for immediate relationship manager outreach
@@ -120,7 +110,7 @@ as a monthly automated report
 
 ---
 
-## ⚠️ Limitations & Next Steps
+##  Limitations & Next Steps
 
 - Model performance could be further improved with 
 hyperparameter tuning using GridSearchCV
@@ -143,4 +133,4 @@ real-world impact
 ## 📬 Contact
 
 - **LinkedIn:** [Phatudi Daniel Modiba](http://www.linkedin.com/in/phatudi-daniel-modiba)
-- **Portfolio:** [Your portfolio website link]
+
