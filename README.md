@@ -1,37 +1,10 @@
-# Informatics Portfolio – Phatudi Daniel Modiba
-
-Welcome to my Inforatics portfolio!  
-I am a penultimate-year Informatics student at Tshwane University of Technology with strong skills in Python, SQL, Power BI, and Excel.  
-This portfolio showcases my projects in data wrangling, visualization, and business insights.
-
----
-
-## 🔧 Tools & Skills
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
-- **Visualization:** Power BI, Excel
-- **Core Skills:** Data cleaning, exploratory data analysis, dashboard creation, reporting
-
----
-
-## 📊 Projects
-### Data Analysis
-
-### 1. Retail Sales Dashboard
-- **Tools:** SQL, Power BI
-- **Dataset:** [Retail Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/terencekatua/retail-sales-dataset)
-- **Highlights:**# Informatics Portfolio – Phatudi Daniel Modiba
 
 Welcome to my Informatics portfolio!
-I am a penultimate-year Informatics student at Tshwane University 
-of Technology with strong skills in Python, SQL, Power BI and Excel.
-I combine Data Analytics and Business Analysis to identify 
-operational problems, build data-driven solutions and deliver 
-measurable outcomes. This portfolio showcases both technical 
-projects and real-world BA case studies.
+I am a penultimate-year Informatics student at Tshwane University of Technology with strong skills in Python, SQL, Power BI and Excel.I combine Data Analytics and Business Analysis to identify operational problems, build data-driven solutions and deliver measurable outcomes. This portfolio showcases both technical projects and real-world BA case studies.
 
 ---
 
-## 🔧 Tools & Skills
+##  Tools & Skills
 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, 
 Seaborn, Scikit-learn), SQL
@@ -46,7 +19,7 @@ improvement
 
 ---
 
-## 📊 Data Analysis Projects
+##  Data Analysis Projects
 
 ### 1. Retail Sales Dashboard
 - **Tools:** SQL, Power BI
@@ -84,7 +57,7 @@ Identified that single-feature models can produce misleadingly high accuracy, va
 
 ---
 
-## 🧠 Business Analysis Case Studies
+##  Business Analysis Case Studies
 
 ### 1. Campus Student Marketplace — Student Online Mall (SOM)
 - **Type:** Independent Case Study
@@ -140,7 +113,7 @@ Proposal Writing, Stakeholder Engagement
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **Email:** phatudimodiba12@gmail.com
 - **LinkedIn:** [Phatudi Daniel Modiba](http://www.linkedin.com/in/phatudi-daniel-modiba)
@@ -152,40 +125,10 @@ Proposal Writing, Stakeholder Engagement
 
 ---
 
-### 2. Netflix Content Analysis
-- **Tools:** Python (Pandas, Matplotlib, Seaborn)
-- **Dataset:** [Netflix Movies & TV Shows (Kaggle)](https://www.kaggle.com/datasets/shivamb/netflix-shows)
-- **Highlights:**
-  - Analyzed genre distribution, release year trends, and ratings.
-  - Visualized shift from movies to TV shows over time.
-- **Deliverables:** [Jupyter Notebook ](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Netflix%20Content%20Analysis/notebook/netflixNoteBook.ipynb)
----
 
-### 3. Customer churn prediction( in progress)
-- **Tools:** 
-- **Dataset:**
-- **Highlights:**
-- **Deliverables:** Notebook + dashboard screenshots
 
----
-### Business Analysis
 
-### 1. Campus Student Marketplace
-- **Tools:**
-- **Dataset:**
-- **Highlights:**
-- **Deliverables:** 
-
----
-### 2. Institutional Policy Gap Analysis
-- **Tools:**
-- **Dataset:**
-- **Highlights:**
-- **Deliverables:** 
-
----
-
-## 📬 Contact
+##  Contact
 - **Email:** phatudimodiba12@gmail.com  
 - **LinkedIn:** [Phatudi Daniel Modiba](http://www.linkedin.com/in/phatudi-daniel-modiba)  
 - **GitHub:** [phatudi230](https://github.com/phatudi230)
