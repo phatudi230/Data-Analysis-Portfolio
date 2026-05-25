@@ -1,9 +1,9 @@
 # Netflix Content Analysis
 
-## 🎯 Objective
+##  Objective
 Perform exploratory data analysis (EDA) on the Netflix dataset to uncover insights about content distribution, genres, release trends, and regional contributions. The goal is to visualize patterns and provide actionable insights into Netflix’s content library.
 
-## 🧩 Workflow
+##  Workflow
 1. **Data Preparation**
    - Import dataset (`netflix_titles.csv`).
    - Handle missing values and duplicates.
@@ -28,17 +28,17 @@ Perform exploratory data analysis (EDA) on the Netflix dataset to uncover insigh
    - Content production has increased significantly after 2015.
    - The United States and India are among the top contributors to Netflix’s library.
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 - Dataset: Netflix Titles (Kaggle)
 
-## 📊 Deliverables
+##  Deliverables
 - Jupyter notebook with full analysis.
 - Visualizations highlighting key trends.
 - Summary of insights for business understanding.
 
-## 🚀 Future Work
+##  Future Work
 - Add predictive modeling (e.g., logistic regression to classify popular vs non-popular titles).
 - Build an interactive dashboard (Power BI or Streamlit).
 - Compare Netflix content trends with competitors (Amazon Prime, Disney+).
