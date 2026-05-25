@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 An independent policy analysis and advocacy initiative 
 addressing the arbitrary withdrawal of storage services 
@@ -14,7 +14,7 @@ engagement — resulting in a measurable institutional outcome.
 
 ---
 
-## 🎯 The Problem
+## The Problem
 
 TUT residence administration withdrew storage services from 
 Sosh5 Residence during the June recess period without 
@@ -31,7 +31,7 @@ explicitly acknowledging storage arrangements as permitted.
 
 ---
 
-## 🔧 Tools & Methods
+##  Tools & Methods
 
 - Policy Document Analysis
 - Compliance Research & Gap Analysis
@@ -41,7 +41,7 @@ explicitly acknowledging storage arrangements as permitted.
 
 ---
 
-## 🔍 Gap Analysis Findings
+##  Gap Analysis Findings
 
 A deep-dive audit of TUT Residence Rules and Administrative 
 Processes revealed:
@@ -65,7 +65,7 @@ alternative arrangements — an obligation that was not met.
 
 ---
 
-## 📋 Proposal Strategy
+## Proposal Strategy
 
 The formal proposal was structured around three arguments:
 
@@ -83,7 +83,7 @@ a proof of concept for the long-term policy.
 
 ---
 
-## 👥 Stakeholder Engagement
+##  Stakeholder Engagement
 
 Navigated a multi-level governance structure independently:
 Residence Committee → ARSC → CRC → IRC → RGC
@@ -95,7 +95,7 @@ Residence Committee → ARSC → CRC → IRC → RGC
 
 ---
 
-## ✅ Outcome
+##  Outcome
 
 **Storage was successfully reinstated for Sosh5 Residence 
 students for the June recess period following formal 
@@ -108,7 +108,7 @@ by a single student independently.
 
 ---
 
-## 💡 Key Competencies Demonstrated
+##  Key Competencies Demonstrated
 
 - **Compliance Research** — Ability to audit dense policy 
 documents and identify actionable gaps
@@ -135,4 +135,3 @@ from personal grievance to institutional efficiency
 ## 📬 Contact
 
 - **LinkedIn:** [Phatudi Daniel Modiba](http://www.linkedin.com/in/phatudi-daniel-modiba)
-- **Portfolio:** [Your portfolio website link]
