@@ -9,13 +9,10 @@ I am a penultimate-year Informatics student at Tshwane University of Technology 
 - **Programming:** Python (Pandas, NumPy, Matplotlib, 
 Seaborn, Scikit-learn), SQL
 - **Visualization:** Power BI, Excel
-- **Business Analysis:** Requirements Elicitation, AS-IS/TO-BE 
-Process Mapping, Stakeholder Analysis, Gap Analysis, 
-Business Case Writing
+- **Business Analysis:** Requirements Elicitation, AS-IS/TO-BE Process Mapping, Stakeholder Analysis, Gap Analysis,Business Case Writing
 - **Design:** Figma (UI/UX Prototyping), Draw.io (BPMN Diagrams)
 - **Core Skills:** Data cleaning, exploratory data analysis, 
-dashboard creation, predictive modelling, business process 
-improvement
+dashboard creation, predictive modelling, business process improvement
 
 ---
 
@@ -28,7 +25,7 @@ improvement
   - Built interactive dashboard to track KPIs (monthly revenue, 
   top products, regional performance)
   - SQL queries for customer segmentation and profitability analysis
-- **Deliverables:** [`.pbix` dashboard folder](https://github.com/phatudi230/Data-Analysis-Portfolio/tree/main/Retail%20Sales%20Dashboard)
+- **Deliverables:** [dashboard](https://github.com/phatudi230/Data-Analysis-Portfolio/tree/main/Retail%20Sales%20Dashboard)
 
 ---
 
@@ -83,8 +80,8 @@ BPMN (Draw.io), Requirements Documentation, Figma (UI Prototyping)
   - Produced full BPMN AS-IS process diagram, functional and 
   non-functional requirements documentation and 5-screen 
   Figma prototype
-- **Deliverables:** [Case Study PDF]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/Data/casestudy2.pdf)) | [Prototype Screens]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/SOM%20Showcase.png)) 
-| [Presentation]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/Data/SOM%20Presentation.pptx))
+- **Deliverables:** [Case Study PDF](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/Data/casestudy2.pdf) | [Prototype Screens](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/SOM%20Showcase.png) 
+| [Presentation](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Campus%20Student%20Marketplace/Data/SOM%20Presentation.pptx)
 
 ---
 
@@ -109,22 +106,9 @@ Proposal Writing, Stakeholder Engagement
   independently, navigating a multi-level institutional structure
   - **Outcome: Storage was successfully reinstated for Sosh5 
   Residence students following formal submission of the proposal**
-- **Deliverables:** [Full Proposal Document]([link](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Institutional%20Policy%20Gap%20Analysis/Storage%20Proposal.pdf))
+- **Deliverables:** [Full Proposal Document](https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/Institutional%20Policy%20Gap%20Analysis/Storage%20Proposal.pdf)
 
 ---
-
-##  Contact
-
-- **Email:** phatudimodiba12@gmail.com
-- **LinkedIn:** [Phatudi Daniel Modiba](http://www.linkedin.com/in/phatudi-daniel-modiba)
-- **GitHub:** [phatudi230](https://github.com/phatudi230)
-- **Portfolio:** [Your portfolio website link]
-  - Built interactive dashboard to track KPIs (monthly revenue, top products, regional performance).
-  - SQL queries for customer segmentation and profitability analysis.
-- **Deliverables:**[ `.pbix` dashboard folder](https://github.com/phatudi230/Data-Analysis-Portfolio/tree/main/Retail%20Sales%20Dashboard)
-
----
-
 
 
 
