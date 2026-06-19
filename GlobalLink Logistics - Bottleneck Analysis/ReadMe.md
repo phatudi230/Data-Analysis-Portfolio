@@ -1,7 +1,7 @@
 # GlobalLink Logistics — Operational Bottleneck & Financial Impact Analysis
 ### Combined Data Analytics & Business Analysis Case Study
 
-![GlobalLink Dashboard](GlobalLink_Dashboard_Overview.png)
+<img width="1371" height="753" alt="Screenshot 2026-01-31 205615" src="https://github.com/phatudi230/Data-Analysis-Portfolio/blob/main/GlobalLink%20Logistics%20-%20Bottleneck%20Analysis/Screenshot%202026-06-19%20225739.png" />
 
 ---
 
