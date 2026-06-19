@@ -10,7 +10,7 @@
 A self-initiated, end-to-end consulting-style project combining 
 Data Analytics and Business Analysis to identify, quantify and 
 solve an operational bottleneck for a simulated logistics company 
-— GlobalLink Logistics. This project demonstrates the full 
+GlobalLink Logistics. This project demonstrates the full 
 analytical lifecycle: data engineering, exploratory analysis, 
 financial impact modelling, interactive dashboarding and 
 strategic business recommendations.
@@ -22,12 +22,12 @@ strategic business recommendations.
 **Business Context:** Acting as Lead Analyst for GlobalLink 
 Logistics, a warehouse operation reported a 12% drop in order 
 fulfillment speed over the last quarter. The Warehouse Operations 
-Manager is frustrated — overtime costs are rising, but orders 
+Manager is frustrated overtime costs are rising, but orders 
 aren't leaving the floor any faster.
 
-**Mission:** Identify the "Bottleneck of Death" — the specific 
+**Mission:** Identify the "Bottleneck of Death" the specific 
 station causing the most downstream financial and operational 
-impact — and recommend a data-backed restructuring plan.
+impact, and recommend a data-backed restructuring plan.
 
 ---
 
@@ -46,7 +46,7 @@ impact — and recommend a data-backed restructuring plan.
 
 ### 1. Data Engineering
 Since no public dataset matched the exact business scenario, a 
-realistic synthetic dataset was generated using Python — 2,000 
+realistic synthetic dataset was generated using Python, 2,000 
 orders across 4 stations (A, B, C, D) and 2 shifts (Day/Night), 
 with intentional, realistic performance variation built into 
 each station and shift combination.
@@ -73,23 +73,23 @@ before drawing business conclusions.
 Initial analysis comparing Day vs Night total costs revealed an 
 apparent "Night Savings" pattern. Further investigation using 
 **Cost-Per-Order** (rather than total cost) revealed this was 
-largely a volume effect, not a genuine performance difference — 
+largely a volume effect, not a genuine performance difference,
 demonstrating the importance of normalizing data before drawing 
 conclusions.
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 | Station | Day Cost/Order | Night Cost/Order | Verdict |
 |---------|----------------|-------------------|---------|
-| Station B | R0.24 | R0.24 | 🌟 Star performer — consistent both shifts |
-| Station A | R0.49 | R0.54 | Solid Day performer — monitor at night |
+| Station B | R0.24 | R0.24 | Star performer: consistent both shifts |
+| Station A | R0.49 | R0.54 | Solid Day performer: monitor at night |
 | Station D | R1.20 | R1.17 | Reliable mid-tier performer |
-| Station C | R3.64 | R3.48 | 💀 Bottleneck of Death — 15x Station B's cost |
+| Station C | R3.64 | R3.48 | Bottleneck of Death: 15x Station B's cost |
 
 **Headline Finding:** Station C costs **15 times more per order** 
-than Station B, regardless of shift — confirming it as the 
+than Station B, regardless of shift, confirming it as the 
 primary, consistent cost driver across all operations.
 
 ---
@@ -119,7 +119,7 @@ higher costs at night, requires oversight
 ## Projected Impact
 
 - Significant reduction in Day shift peak operational losses
-- Zero additional capital investment required — restructuring 
+- Zero additional capital investment required, restructuring 
 existing resources, not purchasing new equipment
 - Long-term Station C capability improvement through structured 
 night-shift training
