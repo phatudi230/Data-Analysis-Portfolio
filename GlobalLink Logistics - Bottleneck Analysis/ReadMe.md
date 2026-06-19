@@ -145,10 +145,10 @@ plan, ROI projection
 
 | File | Description |
 |------|-------------|
-| `data/generate_data.py` | Synthetic dataset generation script |
+| `data/Ops_data.py` | Synthetic dataset generation script |
 | `data/globallink_operations_final.csv` | Generated dataset |
-| `data/GlobalLink_Analysis.ipynb` | Full EDA & financial analysis notebook |
-| `data/GlobalLink_Report.pbix` | Interactive Power BI dashboard |
+| `data/analysis.ipynb` | Full EDA & financial analysis notebook |
+| `data/Operation BottleneckReport.pbix` | Interactive Power BI dashboard |
 | `data/Screenshots/` | Dashboard page screenshots |
 
 ---
